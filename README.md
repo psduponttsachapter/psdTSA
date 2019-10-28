@@ -2,9 +2,9 @@
 The official page of the greatest TSA chapter in Delaware
 
 Meet our officers: 
-  Malti John- President
-  Ani McCaskill- Vice President
-  Alex Zheng- Secretary
-  Quinn Nowacyzk- Treasurer
-  Haley Schleeweis- Reporter
-  Ritisha Sarbajna- Sergeant-at-arms
+  <ul><li>Malti John- President</li>
+  <li>Ani McCaskill- Vice President
+  <li>Alex Zheng- Secretary
+  <li>Quinn Nowacyzk- Treasurer
+  <li>Haley Schleeweis- Reporter
+  <li>Ritisha Sarbajna- Sergeant-at-arms</ul>
