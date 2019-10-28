@@ -7,5 +7,5 @@ Meet our officers:
   <li>Alex Zheng- Secretary
   <li>Quinn Nowacyzk- Treasurer
   <li>Haley Schleeweis- Reporter
-  <li>Ritisha Sarbajna- Sergeant-at-arms</ul>
+  <li>Ritisha Sarbajna- Sergeant-at-arms
 
